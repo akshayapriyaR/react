@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "username": "Surya",
+      "password": "surya123",
+      "email": "yyokesh2004@gmail.com",
+      "id": "000001"
+    },
+    {
+      "username": "Sunil",
+      "password": "sunil123",
+      "email": "sunil@gmail.com",
+      "id": "000002"
+    },
+    {
+      "username": "Yokesh",
+      "password": "yoki2004",
+      "email": "yyokesh2004@gmail.com",
+      "id": "000003"
+    },
+    {
+      "username": "Shivaram",
+      "password": "sivarma123",
+      "email": "shivaram@gmail.com",
+      "id": "000004"
+    },
+    {
+      "username": "Siva",
+      "password": "123456",
+      "email": "siva@gmail.com",
+      "id": "000005"
+    },
+    {
+      "username": "Sam",
+      "password": "1245",
+      "email": "sam@gmail.com",
+      "id": "000006"
+    },
+    {
+      "username": "Vicky",
+      "password": "54321",
+      "email": "vikranth@gmail.com",
+      "id": "000007"
+    },
+    {
+      "username": "Yoki",
+      "password": "1456",
+      "email": "yoki@gmail.com",
+      "id": "000008"
+    },
+    {
+      "username": "Akshaya",
+      "password": "1457",
+      "email": "akshaya@gmail.com",
+      "id": "000009"
+    },
+    {
+      "username": "Sri",
+      "password": "srisanj123",
+      "email": "sri@gmail.com",
+      "id": "000010"
+    },
+    {
+      "username": "Sanj",
+      "password": "sanj123",
+      "email": "sanj@gmail.com",
+      "id": "000011"
+    },
+    {
+      "id": "fe46",
+      "email": "a123@gmail.com",
+      "username": "a123",
+      "password": "akshaya123"
+    },
+    {
+      "id": "2bde",
+      "email": "rena@gmail.com",
+      "username": "rena",
+      "password": "rena123"
+    },
+    {
+      "id": "b989",
+      "email": "pooja@gmail.com",
+      "username": "pooja",
+      "password": "pooja123"
+    }
+  ],
+  "customers": [
+    {
+      "id": "000001",
+      "username": "John Doe",
+      "accountNumber": "123456",
+      "branch": "Main Branch"
+    },
+    {
+      "id": "000002",
+      "username": "Jane Smith",
+      "accountNumber": "654321",
+      "branch": "Secondary Branch"
+    },
+    {
+      "id": "000003",
+      "username": "Alice Johnson",
+      "accountNumber": "789012",
+      "branch": "Tertiary Branch"
+    },
+    {
+      "id": "000004",
+      "username": "Michael Brown",
+      "accountNumber": "345678",
+      "branch": "Downtown Branch"
+    },
+    {
+      "id": "000005",
+      "username": "Emily Davis",
+      "accountNumber": "987654",
+      "branch": "Uptown Branch"
+    }
+  ]
+}
